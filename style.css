@@ -1,0 +1,44 @@
+body {
+	background-color: #FFFFFF;
+	color: white 
+}
+
+p {
+	font-size: 32px;
+	margin-top: 90px;
+}
+
+a {
+	word-break: break-all;
+	color: gray;
+	font-style: italic;
+}
+
+div {
+	position: relative;
+}
+
+.image-container {
+	position: fixed;
+	width: 15vw;
+	left: 500px;
+	top: 250px;
+	z-index: 0;
+}
+
+.image-container a {
+	display: block;
+}
+
+.image-container img {
+	width: 100%;
+}
+
+.text-container {
+	text-align: Left;
+	z-index: 1;
+}
+
+.black {
+	color: black 
+}
