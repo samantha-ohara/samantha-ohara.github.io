@@ -28,7 +28,7 @@ div {
 }
 
 .image-container {
-	position: relative;
+	position: fixed;
 	width: 15vw;
 	left: 500px;
 	top: 250px;
